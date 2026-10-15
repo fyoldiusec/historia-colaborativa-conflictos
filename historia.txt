@@ -1,0 +1,10 @@
+﻿Habia una vez un grupo de estudiantes de desarrollo.
+Estaban aprendiendo a utilizar Git y GitHub en clase.
+Pronto descubrieron como solucionar los problemas con las ramas.
+
+Procedieron a crear y cambiar la rama desarrollo 
+Después añadieron un contenido al archivo y modificaron lo que ya estaba escrito
+Asi cumpliendo el objetivo de crear un desarrollo.
+
+Finalmente, los alumnos tras varias comeduras de cabeza,
+consiguieron resolver todos los bugs y aprobaron la tarea de GitHub con un 10.
